@@ -18,7 +18,7 @@
 本仓库包含一些latex公式，但github的markdown原生是不支持公式显示的，docs文件夹即将托管在[Read the Docs](https://readthedocs.org/)上。当然如果你还想跑一下运行相关代码的话还是得把本项目clone下来，然后运行code文件夹下相关代码。
 
 
-## Contributors
+## D2L Contributors
 <p align="center">
 <a href="https://github.com/anliyuan"><img src="https://avatars.githubusercontent.com/u/20371209?v=4" width=75 height=75></a>
 <a href="https://github.com/Shelly111111"><img src="https://avatars.githubusercontent.com/u/50294940?v=4" width=75 height=75></a>
